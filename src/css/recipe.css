@@ -32,3 +32,12 @@
 .recipe__value{
     font-weight: 300;
 }
+
+.recipe__value{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.recipe__instructions{
+    white-space: pre-wrap;
+}
